@@ -1,4 +1,4 @@
-# <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hola! I'm Dacydl
+# <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hola! I'm Dacydl (Readme soon :tm:)
 
 
 <!--
