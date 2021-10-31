@@ -1,17 +1,7 @@
 # <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hey! I'm Dacydl!
 
-### 💟 &nbsp;About me
-My daily routine with brother...\
-• Wake up\
-• Eat\
-• School\
-• Friends (mostly in Discord, some of in real life)\
-• Coding\
-• Study\
-• Sleep together\
-\
-ok, I'll stop here. My home and money situation is pretty fine, just bad situation that I've no parents.
-and that's all by my about me.
+### About me
+An unknown person to this world.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
