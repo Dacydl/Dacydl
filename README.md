@@ -1,4 +1,5 @@
-### Hi there 👋
+# <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hola! I'm Dacydl
+
 
 <!--
 **Dacydl/Dacydl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
