@@ -1,4 +1,4 @@
-# <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hola! I'm Dacydl!
+# <a href="https://emoji.gg/emoji/6949-gawrgurawavebackgroundless"><img src="https://cdn.discordapp.com/emojis/879143510807306240.png?size=128" width="32px" height="32px" alt="HuTaoCry"></a> Hey! I'm Dacydl!
 
 ### 💟 &nbsp;About me
 My daily routine with brother...\
@@ -8,7 +8,6 @@ My daily routine with brother...\
 • Friends (mostly in Discord, some of in real life)\
 • Coding\
 • Study\
-• Playing with brother, idk sometimes kiss\
 • Sleep together\
 \
 ok, I'll stop here. My home and money situation is pretty fine, just bad situation that I've not parents.
