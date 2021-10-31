@@ -10,7 +10,7 @@ My daily routine with brother...\
 • Study\
 • Sleep together\
 \
-ok, I'll stop here. My home and money situation is pretty fine, just bad situation that I've not parents.
+ok, I'll stop here. My home and money situation is pretty fine, just bad situation that I've no parents.
 and that's all by my about me.
 
 ### ⚙️ &nbsp;GitHub Analytics
