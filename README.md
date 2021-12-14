@@ -1,4 +1,4 @@
-## Welcome
+## Welcome :wave:
 
 Hey, how's y'all day! Wish have a great day & obviously night too! I'm mostly work around NodeJS projects, currently learning Python. If you want, you can look over my projects.
 
