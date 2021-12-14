@@ -7,7 +7,7 @@ Hey, how's y'all day! Wish have a great day & obviously night too! I'm mostly wo
 Contacts: Twitter @dragonfirefox06 and Discord luha#4341
 
 
-## Stats
+## GitHub Stats
 
 <p align="left">
 <a href="https://github.com/dragonfirefox">
