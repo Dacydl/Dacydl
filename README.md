@@ -1,5 +1,4 @@
-Hello! I'm an open source developer and self learner.
-I like low-level things, such as embedded systems, bootloaders, kernels and more. Even I can't do much.
-Thanks for reading, stranger. 
+### Hey 👋
+Not fan of Arch Linux Disto. Debian & Ubuntu ~~breaker.~~
 
-Socials: Awtumn#0211 (Discord), dragonfirefox (Telegram)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wory48&show_icons=true&locale=en&theme=merko&count_private=true" alt="wory48" /></p>
