@@ -1,8 +1,15 @@
-## Hi!
-I likes Linux distros alot and lazy.
+## Who I'm?
+Hey, I'm **awayaaoo** (17y, they/them), I do random things and learn.
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></img>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
-<img src="https://img.shields.io/github/followers/drag4drop?color=faabb4&labelColor=faabb4&style=for-the-badge&logo=github&label=Follow%20me"></img>
+## Stats
+- GitHub
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ruzie&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true"></img>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drop4out&show_icons=true&locale=en&theme=gruvbox&count_private=true" alt="wory48" /></p>
+- Discord
+<img alt="On Discord" src="https://discord.c99.nl/widget/theme-2/757925432934006807.png"></img>
+
+## Socials
+<img alt="Twitter" src="https://img.shields.io/badge/Discord-Awayaaoo-darkblue"></img>
+&emsp;<img alt="Discord" src="https://img.shields.io/badge/Twitter-reenhash-blue"></img>
+<img alt="Reddit" src="https://img.shields.io/badge/Reddit-rumble__you-orange"></img>
+&emsp;<img alt="Email" src="https://img.shields.io/badge/E--mail-Click%20here-red"></img>
